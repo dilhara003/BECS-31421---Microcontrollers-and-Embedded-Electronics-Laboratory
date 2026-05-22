@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo4 -N"D:\OneDrive - University of Kelaniya\University life\Electronics and Computer Science UOK\Semester 5\BECS 31421 - Microcontrollers and Embedded Electronics Laboratory\Laboratory - 04\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\OneDrive - University of Kelaniya\University life\Electronics and Computer Science UOK\Semester 5\BECS 31421 - Microcontrollers and Embedded Electronics Laboratory\Laboratory - 04\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+diagnostics: 39	123	Compiled Successfully	MyProject.c
+diagnostics: 0	127	All files Compiled in 156 ms	 
+hint: 0	1144	Used RAM (bytes): 4 (2%)  Free RAM (bytes): 204 (98%)	Used RAM (bytes): 4 (2%)  Free RAM (bytes): 204 (98%)
+hint: 0	1144	Used ROM (program words): 97 (5%)  Free ROM (program words): 1951 (95%)	Used ROM (program words): 97 (5%)  Free ROM (program words): 1951 (95%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 359 ms	 
+diagnostics: 0	103	Finished successfully: 22 May 2026, 14:49:51	MyProject.mcppi
